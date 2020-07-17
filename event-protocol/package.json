@@ -9,7 +9,7 @@
     "test": "make"
   },
   "dependencies": {
-    "ajv": "^4.6.1",
+    "ajv": "^6.12.3",
     "mz": "^2.4.0"
   },
   "bin": {
